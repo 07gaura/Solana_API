@@ -30,8 +30,8 @@ Content-type: application/json
 5. http://127.0.0.1:8000/transfer/ (POST)
         Content-type: application/json
         {
-   "public_key": "AZtEHjKH64E69nrSfYWezdJQCaHDoNFmoeEV16vzQHhY",
-   "private_key": "5MPECaxdsxuqeHkZBMKi6j2JkP3YbMT2wR5a1WqnquUGPxhv6qguLfqN75pvj9FgBih2dVWkd1afucp6srnRqdst",
-   "senders_address": "CMzURog2ZtLYwYdM5r3SJiPXEazUoDhfB8rrs8Hxx24C",
+   "public_key": "xxxxxxxxxxx",
+   "private_key": "xxxxxxxxxx",
+   "senders_address": "xxxxxxxxxxxxxxxx",
    "amount": "0.01"
 }
